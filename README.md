@@ -17,7 +17,7 @@ https://cdn.haloged.eu.org/bootstrap5/bootstrap.min.js
 https://cdn.haloged.eu.org/bootstrap5/popper.min.js
 ## fonts
 ### kingsoft sans
-https://cdn.haloged.eu.org/fonts/kingsoft sans/Kingsoft_Cloud_Font.ttf
+https://cdn.haloged.eu.org/fonts/kingsoft%20sans/Kingsoft_Cloud_Font.ttf
 ## foundation
 https://cdn.haloged.eu.org/foundation/modernizr.js
 
