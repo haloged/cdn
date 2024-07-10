@@ -22,6 +22,8 @@ https://cdn.haloged.eu.org/fonts/kingsoft%20sans/Kingsoft_Cloud_Font.ttf
 https://cdn.haloged.eu.org/foundation/modernizr.js
 
 https://cdn.haloged.eu.org/foundation/foundation.min.js
+
+https://cdn.haloged.eu.org/foundation/foundation-float.min.css
 ## jquery
 https://cdn.haloged.eu.org/jquery/code.jquery.com_jquery-3.7.0.min.js
 ## layx
